@@ -1,9 +1,12 @@
--Feben Alemu
--Geog 458 A
--03/12/2021
--Final Essay
+- Feben Alemu
+
+- Geog 458 A
+
+- 03/12/2021
+
+- Final Essay
                                       
-                                                            **Killings by Oakland Police Department**
+**Killings by Oakland Police Department**
                                        
    Police brutality may be caused by officers’ actions where they apply excessive force, verbal or/and physical harassment against a person. One of the origins of Police brutality comes from discrimination. The United States has had a long history of racism towards civilians based on their skin color. Though there is so much discrimination against one’s color, one of the things faced by people of color and minorities is police brutality. I am very passionate about human rights, justice, and equality for minorities, especially people of color. Therefore, I decided to base my final essay project on The Anti-Eviction Mapping Project, a group of digital cartographers who record gentrification struggles and create resistance tools. This project aims to explicitly show killings of people by the Oakland Police Department (OPD) from 1968 until 2020. 
    The map tiles were made by Stamen Design, and the data was by OpenStreetMap. The project’s central part is the interactive map that should include location pins that describe an incident with more detailed information. The legend is categorized colors for each race and neighborhood by murder. Outside of the map, a histogram chart shows the dates of police killings from 1968 up until 2020, which indicates the number of people killed within those years individually and collectively. This project will help anyone who is researching police brutality, black lives, human rights, and discrimination within the police department. This project can further understand the history of police killings and what can be done to improve it in the future. Some of the data sources include articles from newspapers and news websites that have reported these incidents regarding police officers’ killings.  
